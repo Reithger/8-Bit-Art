@@ -14,16 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/Pixel.java</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Documents/GitHub/Projects/8-Bit%20Art/8-Bit%20Art/src/Pixel.java</locationURI>
-		</link>
-		<link>
-			<name>src/makeArt.java</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Documents/GitHub/Projects/8-Bit%20Art/8-Bit%20Art/src/makeArt.java</locationURI>
-		</link>
-	</linkedResources>
 </projectDescription>
